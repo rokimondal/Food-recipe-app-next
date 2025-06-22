@@ -30,3 +30,41 @@
     <img src="https://img.shields.io/badge/CSS-15.3%25-blue" alt="CSS">
   </div>
 </div>
+
+---
+
+## 🎯 Project Overview
+
+**Food-recipe-app-next** is a modern, professional, and innovative recipe application built with **Next.js**. It streamlines the cooking process by providing organized, easy-to-follow recipes categorized by ingredients and types. The responsive UI ensures a seamless experience for beginners and culinary experts alike.
+
+- Simplify cooking with step-by-step instructions  
+- Search recipes by ingredients, categories, or cooking time  
+- Save favorite recipes for quick access  
+- High-quality images and detailed nutritional data  
+
+**🔗 Live Demo:** [food-recipe-app-next.vercel.app](https://food-recipe-app-next.vercel.app)
+
+---
+
+## ✨ Key Features
+
+- 🍳 Step-by-step recipes with photos  
+- 🔍 Ingredient-based search  
+- 📋 Save favorite recipes  
+- 📊 Nutritional breakdown per recipe  
+
+---
+
+## 🚀 Quick Start
+
+### Prerequisites
+
+- Node.js v14.0.0+  
+- npm v6.0.0+
+
+### Installation
+
+```bash
+git clone https://github.com/rokimondal/Food-recipe-app-next.git
+cd Food-recipe-app-next
+npm install
