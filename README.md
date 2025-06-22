@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/rokimondal/Food-recipe-app-next">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=600&lines=Food-recipe-app-next;Make%20your%20cooking%20a%20breeze!;Cutting-edge%20technology" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=600&lines=Food-recipe-app-next;Make%20your%20cooking%20a%20breeze!" 
       alt="Typing Animation"
     />
   </a>
