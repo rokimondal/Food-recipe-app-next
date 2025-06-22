@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/rokimondal/Food-recipe-app-next">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=true&width=435&lines=🍽️+Food-recipe-app-next;Make+your+cooking+a+breeze!;🔥+Cutting-edge+technology" alt="Animated Header">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=🍽️+Food-recipe-app-next;Make+your+cooking+a+breeze!;🔥+Cutting-edge+technology" alt="Animated Header">
   </a>
 
   <h1>Food-recipe-app-next</h1>
