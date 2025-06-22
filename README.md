@@ -1,11 +1,9 @@
 <div align="center">
   <a href="https://github.com/rokimondal/Food-recipe-app-next">
     <p align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Food-recipe-app-next;Make%20your%20cooking%20a%20breeze!;Cutting-edge%20technology" alt="Animated Header">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Food-recipe-app-next;Make%20your%20cooking%20a%20breeze!" alt="Animated Header">
     </p>
   </a>
-
-  <h3>A cutting-edge project</h3>
 
   <p>
     <a href="https://github.com/rokimondal/Food-recipe-app-next/stargazers">
